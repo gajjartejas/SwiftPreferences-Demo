@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "137cb370-3933-164b-8738-6d677b0ed665++1624" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "137cb370-3933-164b-8738-6d677b0ed665++1624" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2536B82-27E4-491B-91FC-F6E652E82A64",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "137cb370-3933-164b-8738-6d677b0ed665++1624" : "SwiftPreferences%20Demo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftPreferences Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftPreferences Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.10:8443\/svn\/masmas_merchant_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "137cb370-3933-164b-8738-6d677b0ed665++1624"
+    }
+  ]
+}
